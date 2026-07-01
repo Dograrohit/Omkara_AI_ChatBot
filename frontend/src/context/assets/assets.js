@@ -5,7 +5,7 @@ import logo_light from './logo_light.png'
 import search_icon from "./search_icon.svg";
 import user_icon from "./user_icon.svg";
 import theme_icon from "./theme_icon.svg";
-import send_icon from "./send_icon.png";
+import send_icon from "./send_icon.svg";
 import stop_icon from "./stop_icon.svg";
 import mountain_img from "./mountain_img.jpg";
 import menu_icon from "./menu_icon.svg";

@@ -1,10 +1,1 @@
-<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="18.7593" cy="18.6597" r="18.4312" fill="url(#paint0_linear_8908_4933)"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M13.8183 19.567C13.4158 20.9307 12.1432 25.2658 12.1432 25.2658C12.1432 25.2658 28.7795 19.9602 29.0493 19.8702L29.0889 19.8451L13.8183 19.567ZM12.5029 13.3956C12.5029 13.3956 13.5521 17.5965 13.851 18.7703L29.0493 19.1508C27.7335 18.694 12.5029 13.3956 12.5029 13.3956Z" fill="white"/>
-<defs>
-<linearGradient id="paint0_linear_8908_4933" x1="18.7593" y1="0.228516" x2="18.7593" y2="37.0909" gradientUnits="userSpaceOnUse">
-<stop stop-color="#BD53FF"/>
-<stop offset="1" stop-color="#7D36FE"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free 7.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path fill="rgb(0, 0, 0)" d="M568.4 37.7C578.2 34.2 589 36.7 596.4 44C603.8 51.3 606.2 62.2 602.7 72L424.7 568.9C419.7 582.8 406.6 592 391.9 592C377.7 592 364.9 583.4 359.6 570.3L295.4 412.3C290.9 401.3 292.9 388.7 300.6 379.7L395.1 267.3C400.2 261.2 399.8 252.3 394.2 246.7C388.6 241.1 379.6 240.7 373.6 245.8L261.2 340.1C252.1 347.7 239.6 349.7 228.6 345.3L70.1 280.8C57 275.5 48.4 262.7 48.4 248.5C48.4 233.8 57.6 220.7 71.5 215.7L568.4 37.7z"/></svg>
