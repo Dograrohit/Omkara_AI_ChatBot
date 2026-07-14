@@ -33,6 +33,7 @@ const ChatBox = () => {
         behavior:"smooth",
       })
     }
+
   },[messages])
   return (
     <>
@@ -61,7 +62,7 @@ const ChatBox = () => {
            {mode === "image" && (
             <label className='inline-flex gap-5 items-center mb-3 text-sm mx-auto'>
                <p className='text-xs'>Publish Generated Image to Community</p>
-               <input type='checkbox' checked={isPublished} className='cursor-pointer' onChange={(e)=>{e.target.checked}}></input>
+               <input type='checkbox' checked={isPublished} className='cursor-pointer' onChange={(e)=>setIsPublished(e.target.checked)}></input>
             </label>
            )}
 

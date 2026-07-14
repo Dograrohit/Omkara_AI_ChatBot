@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react'
+import React, { useContext, useEffect, useRef, useState } from 'react'
 import { AppContext } from '../context/AppContext'
 import { assets } from '../context/assets/assets'
 import moment from 'moment'
@@ -7,7 +7,7 @@ const Sidebar = ({isMenuOpen,setIsMenuOpen}) => {
 
   const {chats, setSelectedChat, theme,setTheme ,user,navigate} = useContext(AppContext)
   const [search,setSearch] = useState('')
-  
+
   return (
     <>
     {/* bg-gradient-to-b from-[#242124]/30 to-[#000000]/30 */}
