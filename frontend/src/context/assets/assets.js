@@ -14,6 +14,7 @@ import bin_icon from "./bin_icon.svg";
 import logout_icon from "./logout_icon.svg";
 import diamond_icon from "./diamond_icon.svg";
 import gallery_icon from "./gallery_icon.svg";
+import background from "./background.png"
 
 
 import ai_image1 from "./ai_image1.jpg";
@@ -45,7 +46,8 @@ export const assets = {
     bin_icon,
     logout_icon,
     diamond_icon,
-    gallery_icon
+    gallery_icon,
+    background
 }
 
 export const dummyid = {

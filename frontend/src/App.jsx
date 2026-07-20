@@ -9,6 +9,7 @@ import Navbar from './components/Navbar'
 import { assets } from './context/assets/assets'
 import './context/assets/prism.css'
 import Loading from './pages/Loading'
+import Login from './pages/Login'
 
 
 function App() {
@@ -17,6 +18,7 @@ const [isMenuOpen, setIsMenuOpen] = useState(false)
 const {pathname} = useLocation()
 
 if(pathname === '/loading') return <Loading/>
+if(pathname === '/login') return <Login/>
 
   return (
     <>
