@@ -520,7 +520,16 @@ export const dummychat = [
         createdAt: "2025-08-13T17:29:52.421Z",
         updatedAt: "2025-08-14T09:39:19.046Z",
         userName: "GreatStack"
-    }
+    },{
+    "_id": "chat009",
+    "userid": "user009",
+    "username": "Rohit Dogra",
+    "chatname": "New Chat",
+    "createdAt": "2026-05-27T10:15:00Z",
+    "updatedAt": "2026-06-10T10:25:30Z",
+    "messages": []
+  }
+    
 ]
 
 export const dummyPublishedImages = [
